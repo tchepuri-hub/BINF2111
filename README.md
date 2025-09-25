@@ -1,2 +1,9 @@
+
 # BINF2111
-Introduction of fundamentals of programming for bioinformatics (sometimes called “scripting”) using current programming languages and paradigms.  
+
+**Name:** Tanusree Chepuri  
+
+**Semester:** Fall 2025  
+
+**Major:** Biology Major
+**Year:** Senior
